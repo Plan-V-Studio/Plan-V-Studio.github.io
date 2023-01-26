@@ -1,2 +1,2 @@
 # Plan-V Studio::Languange Selector
-### [CN](/cn)
+### [CN](/s/cn)
