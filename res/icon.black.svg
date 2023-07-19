@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640px" height="640px" viewBox="0 0 640 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon.black</title>
+    <g id="icon.black" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(71, 32)" fill="#1D1D1F">
+            <path d="M249,0 L498,144 L498,432 L249,576 L6.39488462e-14,432 L3.55271368e-14,144 L249,0 Z M249,45 L38.90625,166.5 L38.90625,409.5 L249,531 L459.09375,409.5 L459.09375,166.5 L249,45 Z" ></path>
+        </g>
+        <circle fill="#1D1D1F" cx="320" cy="320" r="27"></circle>
+    </g>
+</svg>
